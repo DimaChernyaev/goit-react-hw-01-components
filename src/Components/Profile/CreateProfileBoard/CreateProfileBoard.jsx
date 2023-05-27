@@ -3,6 +3,7 @@ import UserProfile from '../UserProfile/CreateUserProfile';
 import UserStats from '../UserStats/UserStats';
 import PropTypes from 'prop-types';
 
+
 const CreateProfileBoard = ({
   username, 
   location, 
