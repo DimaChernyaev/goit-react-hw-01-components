@@ -1,0 +1,23 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+    width: 20%;
+}
+
+.item:not(:last-child) {
+    border-right: 1px solid black;
+}
+
+.label {
+    font-size: 18px;
+    color: black;
+}
+
+.percentage {
+    font-size: 16px;
+    color: darkgray;
+}

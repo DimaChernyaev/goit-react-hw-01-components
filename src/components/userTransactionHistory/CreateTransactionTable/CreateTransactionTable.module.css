@@ -1,0 +1,31 @@
+.transaction__history {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table__thead {
+    background-color: cornflowerblue;;
+    font-size: 18px;
+    padding: 10px;
+}
+
+table th {
+    color: aliceblue;
+    padding: 10px;
+    border: 1px solid #2a2a2a;
+}
+
+.table__body {
+    background-color: aliceblue;
+}
+
+.table__body tr:nth-child(2n + 2) {
+    background-color: antiquewhite;
+}
+
+table td {
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #2a2a2a;
+}
