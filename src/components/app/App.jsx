@@ -7,7 +7,6 @@ import friends from 'friends.json'
 import CreateTransactionTable from 'components/userTransactionHistory/CreateTransactionTable/CreateTransactionTable';
 import transactions from 'transactions.json'
 
-
 function App() {
   return (
     <div>
