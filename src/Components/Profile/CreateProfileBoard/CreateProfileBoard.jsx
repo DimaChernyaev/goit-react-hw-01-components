@@ -1,6 +1,6 @@
 import css from './/ProfileBoard.module.css'
-import UserProfile from 'Components/Profile/UserProfile/CreateUserProfile';
-import UserStats from 'Components/Profile/UserStats/UserStats';
+import UserProfile from '../UserProfile/CreateUserProfile';
+import UserStats from '../UserStats/UserStats';
 import PropTypes from 'prop-types';
 
 const CreateProfileBoard = ({

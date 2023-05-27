@@ -1,10 +1,10 @@
-import CreateProfileBoard from "Components/Profile/CreateProfileBoard/CreateProfileBoard";
+import CreateProfileBoard from 'components/profile/CreateProfileBoard/CreateProfileBoard';
 import user from 'user.json';
-import CreateStatistics from "Components/Statistics/CreateStatistics/CreateStatistics";
+import CreateStatistics from 'components/statistics/CreateStatistics/CreateStatistics';
 import data from 'data.json';
-import CreateFriendList from "Components/FriendList/CreateFriendList/CreateFriendList";
+import CreateFriendList from 'components/friendList/CreateFriendList/CreateFriendList';
 import friends from 'friends.json'
-import CreateTransactionTable from "Components/UserTransactionHistory/CreateTransactionTable/CreateTransactionTable";
+import CreateTransactionTable from 'components/userTransactionHistory/CreateTransactionTable/CreateTransactionTable';
 import transactions from 'transactions.json'
 
 
